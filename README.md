@@ -1,4 +1,4 @@
-# applied-machine-learning
+# Applied Machine Learning
 
 In this two‑week course, you’ll dive into core machine learning modeling techniques and real‑world system design. 
 - **Week 1** covers debugging model development and exploring model‑ vs. data‑centric improvement approaches, helping you build solid baselines. 
